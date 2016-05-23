@@ -1,7 +1,7 @@
 # Taggable
 ## Text to tags by machien learning.
 
-I whant to use ML for tagging any text.
+I want to use ML for tagging any text.
 
 What already done?
 
