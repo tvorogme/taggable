@@ -1,9 +1,5 @@
 # Taggable
-## Text to tags by machien learning.
-
-I want to use ML for tagging any text.
-
-What already done?
+## Text to tags by machine learning.
 
 | Time  | What done |
 | ------------- | ------------- |
