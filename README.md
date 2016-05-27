@@ -3,4 +3,4 @@
 
 | Time  | What done |
 | ------------- | ------------- |
-| 20 May 12:15:05 GMT+3 2016 | Idea born, howtodo create, parse wiki and data format done |
+| 20 May 12:15:05 GMT+3 2016 | Idea born |
